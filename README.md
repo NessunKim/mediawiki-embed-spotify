@@ -2,7 +2,13 @@
 MediaWiki extension to embed Spotify player
 
 ## Installation
-Clone this repository as `EmbedSpotify` in your `extensions/` directory.
+Download the `zip` file of the latest release [here](https://github.com/NessunKim/mediawiki-embed-spotify/releases) and unzip into `extensions/EmbedSpotify` directory.
+
+Add the following code at the bottom of your LocalSettings.php:
+
+```php
+wfLoadExtension( 'EmbedSpotify' );
+```
 
 ## Usage
 You can copy the embed code in the Spotify app. The code should be something like:
