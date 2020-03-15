@@ -1,0 +1,20 @@
+	{
+	"name": "nessun/mediawiki-embed-spotify",
+	"description": "MediaWiki extension to embed Spotify player",
+	"license": "GPL-2.0-or-later",
+	"authors": [
+		{
+			"name": "NessunKim",
+			"email": "nessunkim@gmail.com"
+		}
+	],
+	"require-dev": {
+		"mediawiki/mediawiki-codesniffer": "30.0.0"
+	},
+	"scripts": {
+		"test": [
+			"phpcs -p -s"
+		],
+		"fix": "phpcbf"
+	}
+}
