@@ -11,7 +11,7 @@ wfLoadExtension( 'EmbedSpotify' );
 ```
 
 ## Usage
-You can copy the embed code in the Spotify app. The code should be something like:
+Copy the embed code from the Spotify app. The code should be something like:
 
 ```html
 <iframe src="https://open.spotify.com/embed/album/6EmLwnyjJRVgNOmOUpVhzz" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
