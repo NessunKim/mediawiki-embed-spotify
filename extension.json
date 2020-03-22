@@ -2,8 +2,8 @@
 	"name": "EmbedSpotify",
 	"author": "Nessun Kim",
 	"url": "https://www.mediawiki.org/wiki/Extension:EmbedSpotify",
-	"description": "Adds <spotify></spotify> tag to embed spotify player",
-	"version": "1.0.1",
+	"description": "Adds <code>&lt;spotify&gt;</code> tag to embed Spotify player",
+	"version": "1.0.2",
 	"license-name": "GPL-2.0-or-later",
 	"type": "parserhook",
 	"Hooks": {
